@@ -1,6 +1,6 @@
 ## SQL Server on docker
 docker SQL Server for local env
--------------
+
 ## SET UP 
 
 1. change database name on db-init.sql
